@@ -1,0 +1,26 @@
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+  list-style: none;
+  background-image: url("../img/food.jpg");
+}
+img{
+  height: 200px;
+}
+li{
+  list-style: none;
+}
+.container{
+  background-color: #ffffffe0;
+
+
+}
+.jumbotron{
+  width: 64%;
+  margin-left: 18%;
+  margin-top: 27px;
+  background-color: #130c0170;
+}
+.messages{
+  margin-right: 5%;
+}
