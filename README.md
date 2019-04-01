@@ -1,1 +1,1 @@
-[alt!](public/steak.jpg)
+[!alt](public/steak.jpg)
